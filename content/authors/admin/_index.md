@@ -33,13 +33,12 @@ interests:
 
 # Education to show in About widget
 education:
-  degrees:
-    - degree: MA in Sociology
-      institution: University of Western Ontario
-      year: 2020
-    - degree: BA in Sociology
-      institution: Toronto Metropolitan University
-      year: 2019
+  - degree: MA in Sociology
+    institution: University of Western Ontario
+    year: 2020
+  - degree: BA in Sociology
+    institution: Toronto Metropolitan University
+    year: 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
