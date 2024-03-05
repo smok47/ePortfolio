@@ -26,22 +26,20 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Labour market outcomes
+  - Social inequality
+  - Intersectionality
+  - Quantitative methods
 
 # Education to show in About widget
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  degrees:
+    - degree: MA in Sociology
+      institution: University of Western Ontario
+      year: 2020
+    - degree: BA in Sociology
+      institution: Toronto Metropolitan University
+      year: 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
